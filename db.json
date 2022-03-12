@@ -1,0 +1,16 @@
+{
+    "usernames": {
+        "admin": "root"
+    },
+    "roles": {
+        "admin": "admin"
+
+    },
+    "info": {
+        "admin": {
+            "fname": "admin",
+            "lname": "admin"
+        }
+    },
+    "courses": {}
+}
